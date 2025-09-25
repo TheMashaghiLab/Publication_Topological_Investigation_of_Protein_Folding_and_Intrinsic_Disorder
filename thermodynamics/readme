@@ -6,3 +6,4 @@ In this folder placed files used for building models linking protein circuit top
 4. ACPRO_PSC_VA_v1.csv -- topological data from the ACPro data base protein structures
 5. KPro_PSC_VA_v1.csv -- topological data from the KPro data base protein structures
 6. KPro_VA_v2.csv -- pre-processed data from the KPro database
+7. Pre_processed_PDBs.zip -- archive contening pre-processed pdb structures for analysis
