@@ -1,5 +1,8 @@
-thermodynamics
-file
+In this folder placed files used for building models linking protein circuit topology and free energy of folding, folding and unfolding kinetics. 
 
-
-
+1. ACPRO_22avg.csv -- inpud data from the ACPro database
+2. KPro.tcv -- inpud data from the ACPro database
+3. CT_energy_predict.ipynb -- Jupyter notebook with analysis
+4. ACPRO_PSC_VA_v1.csv -- topological data from the ACPro data base protein structures
+5. KPro_PSC_VA_v1.csv -- topological data from the KPro data base protein structures
+6. KPro_VA_v2.csv -- pre-processed data from the KPro database
