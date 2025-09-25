@@ -1,1 +1,4 @@
-This folder containing the files used conformational circuit topology analysis of the disordered and folded proteins
+This folder containing the files used for circuit topology analysis of the disordered and folded proteins and results visualisation
+
+- The CT_gamma_predict notebook predicts the Flory exponent (γ) using sigmoid regression based on CT data. The model is trained using proteins with fewer than 200 residues and visualized in a 3D plot, then tested on longer proteins. 
+- The CT_folding_predict notebook uses logistic regression to classify folded versus disordered regions, trained on clean data from PED and SCOPe and validated on the full merged database, with a 3D plot of the classification result. 
