@@ -1,4 +1,4 @@
-In this folder placed files used for building models linking protein circuit topology and free energy of folding, folding and unfolding kinetics. 
+This folder contains the files used to build models linking protein circuit topology with folding free energy and folding/unfolding kinetics.
 
 1. ACPRO_22avg.csv -- inpud data from the ACPro database
 2. KPro.tcv -- inpud data from the ACPro database
