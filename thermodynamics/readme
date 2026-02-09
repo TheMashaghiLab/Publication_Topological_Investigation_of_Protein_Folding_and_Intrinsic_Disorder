@@ -1,8 +1,8 @@
-Folder Contents
+#Folder Contents
 
 This folder contains datasets and analysis files used to build models linking protein circuit topology with folding free energy and folding/unfolding kinetics.
 
-ACPro Dataset
+##ACPro Dataset
 
 ACPRO_22avg.csv
 Input data from the ACPro database.
@@ -10,7 +10,7 @@ Input data from the ACPro database.
 ACPRO_PSC_VA_v1.csv
 Topological data derived from ACPro protein structures.
 
-KPro Dataset
+##KPro Dataset
 
 KPro.csv
 Input data from the KPro database.
@@ -21,7 +21,7 @@ Topological data derived from KPro protein structures.
 KPro_VA_v2.csv
 Pre-processed data from the KPro database.
 
-ProThermDB Dataset
+##ProThermDB Dataset
 
 ProThermDB.csv
 Input data from the ProThermDB database.
@@ -32,12 +32,12 @@ Topological data derived from ProThermDB protein structures.
 ProThermDB_VA_v1.csv
 Pre-processed data from the ProThermDB database.
 
-Structural Data
+##Structural Data
 
 Pre_processed_PDBs.zip
 Archive containing pre-processed PDB structures used for analysis.
 
-Analysis
+##Analysis
 
 CT_energy_predict.ipynb
 Jupyter notebook containing data analysis and model development.
